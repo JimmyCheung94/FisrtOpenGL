@@ -1,6 +1,7 @@
 //
 
-#include "stdafx.h"
+#include "stdio.h"
+#include "stdlib.h"
 #include<gl/glut.h>
 
 void renderScene(void) {
